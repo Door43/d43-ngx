@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ngx:home|Door43 (ngx)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ngx|d43-ngx repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ngx/archive/master.zip|d43-ngx.zip]]
+
+**Recent Changes**
+{{changes>ns = ngx}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ngx|Ethnologue data]]
+
